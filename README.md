@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Caio Fernandes Lima, I'm a computer Engineering college student at Federal University of Grande Dourados and Industrial Automation Technician by the Federal Institute of Education.
 
-I'm currently looking for a position as python develope. In the future,  I plan to apply myself for a position in the fields of data science and machine learning.
+
 <!--
 **caio2525/caio2525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
